@@ -9,6 +9,7 @@ Mucho gusto, mi nombre es Nelson, vivo en Venezuela, soy DBA y vivo la cultura D
 
 * Implementación, administración y monitoreo de base de datos RDBMS Oracle, en sus versiones 9i, 10g, 11g, 12c y 19c, tanto en clúster como single, desde el año 2017.
 * Amplio manejo de Base de Datos PostgreSql, MySql, SqlServer y SqLite, desde el año 2017.
+* Administración de servidores Linux, CentOS, Ubuntu, Aix y Windows server.
 * Conocimientos avanzados en Python
 * Conocimientos sólidos en Shell Scripting, PowerShell y Awk.
 * Experiencia en desarrollo de aplicaciones web.
