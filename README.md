@@ -1,6 +1,6 @@
 # Hola, Bienvenidos :wave: 
 
-Mucho gusto, mi nombre es Nelson, vivo en Venezuela, soy DBA y vivo la cultura DevOps.
+Mucho gusto, mi nombre es Nelson, vivo en Venezuela, soy DBA, programador senior python, poseo conocimientos solidos en nodejs y en DevOps.
 
 * Actualmente trabajo en Alphatech CA, como consultor Senior, prestando servicio a uno de los bancos mas grandes del país
 * Ofrezco horas de consultoria, dejare mis datos al final :+1: 
